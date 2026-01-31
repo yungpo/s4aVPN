@@ -20,6 +20,13 @@
     <string name="toast_services_stop">Stop Services</string>
     <string name="toast_services_success">Start Services Success</string>
     <string name="toast_services_failure">Start Services Failure</string>
+    <string name="s4a_home_title">S4A VPN</string>
+    <string name="s4a_home_subtitle">Private access for everyone</string>
+    <string name="s4a_status_label">Status</string>
+    <string name="s4a_status_offline">Offline</string>
+    <string name="s4a_trial_badge">Trial 3 days</string>
+    <string name="s4a_quick_profile">Profile</string>
+    <string name="s4a_quick_support">Support</string>
 
     <!--ServerActivity-->
     <string name="title_server">Config</string>

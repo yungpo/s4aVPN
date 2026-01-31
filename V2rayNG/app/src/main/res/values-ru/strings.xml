@@ -19,6 +19,13 @@
     <string name="toast_services_stop">Остановка служб</string>
     <string name="toast_services_success">Службы успешно запущены</string>
     <string name="toast_services_failure">Сбой при запуске служб</string>
+    <string name="s4a_home_title">S4A VPN</string>
+    <string name="s4a_home_subtitle">Частный доступ для всех</string>
+    <string name="s4a_status_label">Статус</string>
+    <string name="s4a_status_offline">Нет соединения</string>
+    <string name="s4a_trial_badge">Триал 3 дня</string>
+    <string name="s4a_quick_profile">Профиль</string>
+    <string name="s4a_quick_support">Поддержка</string>
 
     <!--ServerActivity-->
     <string name="title_server">Профиль</string>

@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="color_fab_active">#f97910</color>
-    <color name="color_fab_inactive">#646464</color>
+    <color name="color_fab_active">#34C3FF</color>
+    <color name="color_fab_inactive">#46515C</color>
     <color name="divider_color_light">#424242</color>
+
+    <color name="s4a_background_start">#07131D</color>
+    <color name="s4a_background_end">#0B1E2C</color>
+    <color name="s4a_surface">#0F2333</color>
+    <color name="s4a_card">#132B3D</color>
+    <color name="s4a_accent">#34C3FF</color>
+    <color name="s4a_text_primary">#E6F6FF</color>
+    <color name="s4a_text_secondary">#9BB6C9</color>
 
     <!-- Primary colors - main tone: gray -->
     <color name="md_theme_primary">#C0C0C0</color>
