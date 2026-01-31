@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_widget_name">v2rayNG</string>
-    <string name="app_tile_name">v2rayNG</string>
+    <string name="app_widget_name">S4A VPN</string>
+    <string name="app_tile_name">S4A VPN</string>
     <string name="app_tile_first_use">Первое использование этой функции, пожалуйста, используйте приложение, чтобы добавить сервер</string>
     <string name="navigation_drawer_open">Открыть панель навигации</string>
     <string name="navigation_drawer_close">Закрыть панель навигации</string>
@@ -19,6 +19,25 @@
     <string name="toast_services_stop">Остановка служб</string>
     <string name="toast_services_success">Службы успешно запущены</string>
     <string name="toast_services_failure">Сбой при запуске служб</string>
+    <string name="s4a_home_title">S4A VPN</string>
+    <string name="s4a_home_subtitle">Частный доступ для всех</string>
+    <string name="s4a_status_label">Статус</string>
+    <string name="s4a_status_offline">Нет соединения</string>
+    <string name="s4a_trial_badge">Триал 3 дня</string>
+    <string name="s4a_quick_profile">Профиль</string>
+    <string name="s4a_quick_support">Поддержка</string>
+    <string name="s4a_nav_home">Главная</string>
+    <string name="s4a_nav_servers">Серверы</string>
+    <string name="s4a_nav_profile">Профиль</string>
+    <string name="s4a_nav_support">Поддержка</string>
+    <string name="s4a_profile_title">Подписка</string>
+    <string name="s4a_profile_subtitle">Управление тарифом</string>
+    <string name="s4a_profile_plan">Текущий план: триал</string>
+    <string name="s4a_profile_renew">Продлить подписку</string>
+    <string name="s4a_support_title">Поддержка</string>
+    <string name="s4a_support_subtitle">Мы рядом, если нужна помощь</string>
+    <string name="s4a_support_faq">Установка и FAQ</string>
+    <string name="s4a_support_contact">Связаться с поддержкой</string>
 
     <!--ServerActivity-->
     <string name="title_server">Профиль</string>
