@@ -108,13 +108,13 @@ object AppConfig {
     const val GITHUB_RAW_URL = "https://raw.githubusercontent.com"
     const val GITHUB_DOWNLOAD_URL = "$GITHUB_URL/%s/releases/latest/download"
     const val ANDROID_PACKAGE_NAME_LIST_URL = "$GITHUB_RAW_URL/2dust/androidpackagenamelist/master/proxy.txt"
-    const val APP_URL = "$GITHUB_URL/2dust/v2rayNG"
-    const val APP_API_URL = "https://api.github.com/repos/2dust/v2rayNG/releases"
-    const val APP_ISSUES_URL = "$APP_URL/issues"
-    const val APP_WIKI_MODE = "$APP_URL/wiki/Mode"
-    const val APP_PRIVACY_POLICY = "$GITHUB_RAW_URL/2dust/v2rayNG/master/CR.md"
-    const val APP_PROMOTION_URL = "aHR0cHM6Ly85LjIzNDQ1Ni54eXovYWJjLmh0bWw="
-    const val TG_CHANNEL_URL = "https://t.me/github_2dust"
+    const val APP_URL = "https://t.me/S4ANET_bot"
+    const val APP_API_URL = "https://api.github.com/repos/s4a-vpn/s4a-vpn/releases"
+    const val APP_ISSUES_URL = "https://t.me/S4ANET_bot"
+    const val APP_WIKI_MODE = "https://t.me/S4ANET_bot"
+    const val APP_PRIVACY_POLICY = "https://t.me/S4ANET_bot"
+    const val APP_PROMOTION_URL = "aHR0cHM6Ly90Lm1lL1M0QU5FVF9ib3Q="
+    const val TG_CHANNEL_URL = "https://t.me/S4ANET_bot"
     const val DELAY_TEST_URL = "https://www.gstatic.com/generate_204"
     const val DELAY_TEST_URL2 = "https://www.google.com/generate_204"
 //    const val IP_API_URL = "https://speed.cloudflare.com/meta"
@@ -157,8 +157,8 @@ object AppConfig {
     const val MSG_MEASURE_CONFIG_FINISH = 74
 
     /** Notification channel IDs and names. */
-    const val RAY_NG_CHANNEL_ID = "RAY_NG_M_CH_ID"
-    const val RAY_NG_CHANNEL_NAME = "v2rayNG Background Service"
+    const val RAY_NG_CHANNEL_ID = "S4A_VPN_CHANNEL"
+    const val RAY_NG_CHANNEL_NAME = "S4A VPN Background Service"
     const val SUBSCRIPTION_UPDATE_CHANNEL = "subscription_update_channel"
     const val SUBSCRIPTION_UPDATE_CHANNEL_NAME = "Subscription Update Service"
 
